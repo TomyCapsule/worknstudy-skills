@@ -6,54 +6,37 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
-- les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
-- la nomenclature recommandée pour les routes ❌ / ✔️
+- les verbes HTTP  ✔️
+- les statuts HTTP  ✔️
+- les endpoints  ✔️
+- CORS ✔️
+- la nomenclature recommandée pour les routes ✔️
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+![image](https://github.com/TomyCapsule/worknstudy-skills/assets/102286385/487a28df-cfd3-46e2-a6b2-df8d184e10f9)
 
-[lien github](...)
+### Utilisation dans un projet ✔️
 
-Description :
+### Utilisation en production si applicable ❌ 
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en environement professionnel ❌
 
-[lien du projet](...)
-
-Description :
-
-### Utilisation en environement professionnel ❌ / ✔️
-
-Description :
+Description : En milieu pro j'ai surtout vu GraphQL
 
 ## 🌐 J'utilise des ressources
 
-### Titre
+### Bootcamp avec La Capsule
 
-- lien
-- description
+- Ressources dispo uniquement par les étudiants
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
-
-Description:
-
-Plan d'action : (à valider par le formateur)
-
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
-
-Résolution :
+### Point de blocage ✔️
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌ 
+- J'ai fait une [présentation](...) ❌ 
