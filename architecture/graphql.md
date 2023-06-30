@@ -49,15 +49,15 @@ Description : J'ai eu l'occasion de créer une feature consistant à annuler des
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage  ✔️
 
-Description:
+Description: Apprendre les subscriptions
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
+- Lire la documentation officielle ❌ / ✔️
+- Lire un tutorial réalisé par un tier ❌ / ✔️
+- Introduire la notion dans un projet perso ❌ / ✔️
 
 Résolution :
 
