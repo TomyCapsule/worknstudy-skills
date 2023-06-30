@@ -6,39 +6,46 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la différence entre REST et GraphQL ❌ / ✔️
-- les besoins auxquels répond GraphQL ❌ / ✔️
-- la définition d'un schéma
-- Query ❌ / ✔️
-- Mutation ❌ / ✔️
-- Subscription ❌ / ✔️
+- la différence entre REST et GraphQL ✔️
+- les besoins auxquels répond GraphQL ✔️
+- la définition d'un schéma ✔️
+- Query ✔️
+- Mutation ✔️
+- Subscription ❌
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+![image](https://github.com/TomyCapsule/worknstudy-skills/assets/102286385/5e8d4e89-d7ad-4c70-a3da-3c3130e4ec9b)
 
-[lien github](...)
 
-Description :
+### Utilisation dans un projet ✔️
 
-### Utilisation en production si applicable❌ / ✔️
+[Wild-carbon](https://github.com/AlexisFaugeroux/wild-carbon)
 
-[lien du projet](...)
+Description : Projet de groupe dans lequel on utilise TypeGraphQL et TypeORM
 
-Description :
-
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en production si applicable ❌
 
 Description :
+
+### Utilisation en environement professionnel ✔️
+
+Description : J'ai eu l'occasion de créer une feature consistant à annuler des demandes utilisateurs dans le cadre d'une néobanque
 
 ## 🌐 J'utilise des ressources
 
 ### Titre
 
-- lien
-- description
+- [GraphQL crash course with MERN project](https://www.youtube.com/watch?v=BcLNfwF04Kw)
+- Un exemple d'utilisation de GraphQL avec la stack MERN
+
+- [GraphQL Tutorials](https://www.apollographql.com/tutorials/)
+- Tutoriaux pour commencer GraphQL par la team Apollo
+
+- [Egghead](https://egghead.io/q/graphql)
+- Des tutoriaux pour pousser un peu plus loin
 
 ## 🚧 Je franchis les obstacles
 
@@ -56,5 +63,5 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌ 
+- J'ai fait une [présentation](...) ❌ 
