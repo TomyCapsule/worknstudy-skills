@@ -10,7 +10,6 @@
 - l'éxécution d'un container ❌ / ✔️
 - l'orchestration de containers avec docker-compose ❌ / ✔️
 
-
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌ / ✔️

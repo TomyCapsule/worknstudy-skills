@@ -7,10 +7,10 @@
 ## 🎓 J'ai compris et je peux expliquer
 
 - les tests unitaires ❌ / ✔️
-- les mocks ❌ / ✔️
-- les tests d'integration ❌ / ✔️
-- les tests de bout en bout (end to end) ❌ / ✔️
-- le TDD ❌ / ✔️
+- les mocks ❌
+- les tests d'integration ❌
+- les tests de bout en bout (end to end) ✔️
+- le TDD ❌
 - les tests par snapshot ❌ / ✔️
 
 ## 💻 J'utilise
@@ -33,24 +33,48 @@ Description :
 
 Description :
 
+- Playwright déjà utilisé en entreprise
+- Jest à travailler
+
 ## 🌐 J'utilise des ressources
 
-### Titre
-
-- lien
+- [Documentation officielle de jest](https://jestjs.io/docs/getting-started)
 - description
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ❌
 
-Description:
+Description: Les tests d'intégration et les mocks
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
+- Trouver des repo exemple ❌
+- Pratiquer sur des projets persos ❌
+- Ajouter dans le projet wild-carbon ❌
+
+Résolution :
+
+---
+
+Description: TDD
+
+Plan d'action : (à valider par le formateur)
+
+- Ecrire ses propres tests sur un nouveau projet perso simple ❌
+- Développer les features en se basant uniquement sur ces tests ❌
+- Utiliser le TDD dans wild-carbon ❌
+
+Résolution :
+
+---
+
+Description: Automatiser des tests avec des outils de CI/CD (github actions, circleCI, etc...)
+
+Plan d'action : (à valider par le formateur)
+
+- Apprendre CI/CD ❌
+- Intégrer des tests automatisés dans un projet perso ❌
 
 Résolution :
 
