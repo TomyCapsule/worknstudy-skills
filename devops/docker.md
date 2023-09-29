@@ -6,9 +6,9 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la création d'une image docker ❌ / ✔️
-- l'éxécution d'un container ❌ / ✔️
-- l'orchestration de containers avec docker-compose ❌ / ✔️
+- la création d'une image docker ✔️
+- l'éxécution d'un container ✔️
+- l'orchestration de containers avec docker-compose ✔️
 
 ## 💻 J'utilise
 
@@ -16,7 +16,7 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[https://github.com/TomyCapsule/simple-auth-node-app-with-docker](https://github.com/TomyCapsule/simple-auth-node-app-with-docker)
 
 Description :
 
@@ -26,16 +26,14 @@ Description :
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌
 
-Description :
+Description : Je ne m'occupe pas de cette partie étant donné qu'on a déjà une équipe devops
 
 ## 🌐 J'utilise des ressources
 
-### Titre
-
-- lien
-- description
+- [Containerize Full-Stack JavaScript Applications with Docker](https://egghead.io/courses/containerize-full-stack-javascript-applications-with-docker-30a8)
+- [Docker essentials](https://www.udemy.com/course/docker-essentials/)
 
 ## 🚧 Je franchis les obstacles
 
